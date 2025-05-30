@@ -1,6 +1,6 @@
 # Graph-based ATtractor-TArget Control Algorithm (GATTACA)
 
-The implementaion of this project was based on [gym-PBN](https://github.com/UoS-PLCCN/gym-PBN/tree/main) and [pbn-rl](https://github.com/UoS-PLCCN/pbn-rl) originally introduced in [G. Papagiannis, S. Moschoyiannis et al., Deep Reinforcement Learning for Stabilization of Large-Scale Probabilistic Boolean Networks (2022)](https://ieeexplore.ieee.org/document/9999487).
+The implementation of this project is based on [gym-PBN](https://github.com/UoS-PLCCN/gym-PBN/tree/main) and [pbn-rl](https://github.com/UoS-PLCCN/pbn-rl) originally introduced in [G. Papagiannis, S. Moschoyiannis et al., Deep Reinforcement Learning for Stabilization of Large-Scale Probabilistic Boolean Networks (2022)](https://ieeexplore.ieee.org/document/9999487).
 
 
 # Environment Requirements
