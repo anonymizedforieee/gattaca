@@ -1,5 +1,8 @@
 # Graph-based ATtractor-TArget Control Algorithm (GATTACA)
 
+The implementaion of this project was based on the original methods introduced in [G. Papagiannis, S. Moschoyiannis et al., Deep Reinforcement Learning for Stabilization of Large-Scale Probabilistic Boolean Networks (2022)](https://ieeexplore.ieee.org/document/9999487) implemented in [gym-PBN](https://github.com/UoS-PLCCN/gym-PBN/tree/main) and [pbn-rl](https://github.com/UoS-PLCCN/pbn-rl).
+
+
 # Environment Requirements
 - CUDA 11.3+
 - Python 3.9+
